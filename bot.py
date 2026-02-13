@@ -19,7 +19,7 @@ init(autoreset=True)
 
 # ===================== CONFIGURATION =====================
 SALT = "vT*IUEGgyL"
-REFERER_ID = "pAGdr0orHABm374aD3dEgsAFMjl_C9_YG0DHRRGKCSsDmgGQDn_mhbAF5JAQFrgs6_S9dg=="
+REFERER_ID = "Xj0YZ0shm-AWpa7yadytqzgb2yh7JjWwCm0eF3xZPRTLnZIs4aDiaAO1sGrKpwQ9HUF31A=="
 BASE_URL = "https://app.allscale.io"
 ACCOUNTS_FILE = "accounts.txt"
 
@@ -334,3 +334,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
